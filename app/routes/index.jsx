@@ -8,7 +8,7 @@ export const meta = () => {
 export default function Index() {
   return (
     <div>
-      <h3>hello from Jleong!</h3>
+      <h3>hello from Oppa chan!</h3>
     </div>
   );
 }
